@@ -1,0 +1,1 @@
+la carpeta tabla de animales, esta la base de datos donde hice las tablas con el pgadmin 4
